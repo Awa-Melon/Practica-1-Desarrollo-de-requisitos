@@ -1,13 +1,13 @@
 body {
-    font-family: Comic sans, sans-serif;
-    background-color: #f2f2f2;
+    font-family: fantasy;
+    background-color: #EDB6A8;
     margin: 0;
 }
 
 .contenedor {
     width: 400px;
     margin: 50px auto;
-    background-color: white;
+    background-color: #A8DFED;
     padding: 30px;
     border-radius: 10px;
 }
@@ -51,20 +51,4 @@ button {
     text-align: center;
     font-weight: bold;
     margin-top: 20px;
-}
-
-
-
-
-body{
-front-family: Arial, sans-serif;
-background-color: #f2f2f2;
-margin:0;
-}
-.contenedor{
-width: 400px;
-margin:50px auto;
-background-color: white;
-padding: 30px;
-border-radius: 10px;
 }
